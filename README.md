@@ -19,7 +19,6 @@
 <sub>    Scribbling</sub>  
 <sub>    Cats :cat2:</sub>  
 <sub>    Burgers :hamburger:</sub>  
-<sub>    Delta Goodrem :musical_note:</sub>  
 <sub>    Winter</sub>  
 <sub>    Adobe</sub>  
 <sub>    ...</sub>  
